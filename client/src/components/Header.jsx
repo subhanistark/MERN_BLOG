@@ -9,8 +9,8 @@ export default function Header() {
         <div>
             <Navbar className="border-b-2">
                 <Link to="/" className="text-sm whitespace-nowrap sm:text-xl font-semibold dark:text-white">
-                    <span className="px-2 py-1 bg-gradient-to-r from-blue-500 via-fuchsia-500 to-red-500 rounded-lg text-white">Stark </span>
-                    Blog
+                    <span className="px-2 py-1 bg-gradient-to-r from-blue-500 via-fuchsia-500 to-red-500 rounded-lg text-white">Subhani </span>
+                   Stark
                 </Link>
                 <form >
                     <TextInput
